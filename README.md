@@ -3,7 +3,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 ## Simulator video
 
-[![Simulator video](https://drive.google.com/open?id=1G14QPEAYb47GqUv1mYN5Q68i2l3e3rem)](https://drive.google.com/open?id=1G14QPEAYb47GqUv1mYN5Q68i2l3e3rem)
+![Simulator video](https://drive.google.com/open?id=1G14QPEAYb47GqUv1mYN5Q68i2l3e3rem)
 
 
 ## Project Team 
